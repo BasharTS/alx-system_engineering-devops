@@ -1,1 +1,1 @@
-This repo. is all about shell permissions
+This repo is all about shell permissions
